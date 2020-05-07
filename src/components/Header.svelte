@@ -1,0 +1,18 @@
+<style>
+  header {
+    background: #f7f7f7;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  img{
+      max-width: 180px;
+  }
+</style>
+
+<header>
+  <h1>
+    <img src="/img/ninjaPollImage.svg" alt="Poll Ninja Logo" />
+  </h1>
+</header>
